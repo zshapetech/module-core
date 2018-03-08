@@ -2,7 +2,6 @@
 Provides common functionality for the following magento 2 modules:
 - [zshapetech/module-slider](https://github.com/zshapetech/module-slider)
 - [zshapetech/module-best-sellers](https://github.com/zshapetech/module-best-sellers)
-- [zshapetech/module-features](https://github.com/zshapetech/module-features)
 
 ## Getting started
 The following instructions describe installation of extension.
